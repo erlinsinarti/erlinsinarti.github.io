@@ -15,7 +15,8 @@
 <tr>
 <td>Nama</td>
 <td>Emiliana Erlin Sinarti</td>
-<td rowspan="7"><img src="riski.jpeg" width="200"></td>
+<td rowspan="7"><img src="![Uploading image.png…]()
+" width="200"></td>
 </tr>
 <tr>
 <td>Tempat/Tanggal Lahir</td>
